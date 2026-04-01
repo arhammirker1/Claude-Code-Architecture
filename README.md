@@ -1,5 +1,3 @@
-# Claude-Code-Architecture
-
 # Claude Code — Deep Architecture Research
 ## How Anthropic Built a Production AI Agent with Action-Taking Tools
 
